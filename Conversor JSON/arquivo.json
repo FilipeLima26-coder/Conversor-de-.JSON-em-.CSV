@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "João Silva",
+    "idade": 30,
+    "email": "joao.silva@email.com"
+  },
+  {
+    "nome": "Maria Souza",
+    "idade": 25,
+    "email": "maria.souza@email.com"
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 40,
+    "email": "carlos.lima@email.com"
+  },
+  {
+    "nome": "Ytalo Santos",
+    "idade": 22,
+    "email": "mccamilinha@gmail.com"
+  }
+] 
